@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Asia</key>
+	<array>
+		<string>All</string>
+		<string>Korea</string>
+		<string>China</string>
+		<string>Japan</string>
+		<string>Hongkong</string>
+		<string>Taiwan</string>
+		<string>India</string>
+		<string>Mongol</string>
+		<string>Philipine</string>
+		<string>Nepal</string>
+	</array>
+	<key>Europe</key>
+	<array>
+		<string>All</string>
+		<string>Norway</string>
+		<string>Sweden</string>
+		<string>Finland</string>
+		<string>Italy</string>
+		<string>U.K</string>
+		<string>France</string>
+		<string>Germany</string>
+	</array>
+	<key>Africa</key>
+	<array>
+		<string>All</string>
+		<string>Morocco</string>
+		<string>Algeria</string>
+		<string>Libya</string>
+		<string>Egypt</string>
+		<string>South Africa</string>
+	</array>
+	<key>America</key>
+	<array>
+		<string>All</string>
+		<string>USA</string>
+		<string>Canada</string>
+		<string>Mexico</string>
+		<string>Argentina</string>
+		<string>Chile</string>
+		<string>Brazil</string>
+		<string>Equador</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,44 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "992211DACDBCE1D6278A2558BA000D4E87E621AE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "992211DACDBCE1D6278A2558BA000D4E87E621AE" : 9223372036854775807,
+    "253940EFFD57AA0C844632FA47CFF566158B5D5C" : 9223372036854775807,
+    "942298B9B4489A8B164BFD5A00D7D82DEB83C7F2" : 9223372036854775807,
+    "A88D8E88AABCABFC0B1FD86705C3D1C5100AEB56" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7FC6E904-B03B-4D27-998D-C5E3BE27D898",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "992211DACDBCE1D6278A2558BA000D4E87E621AE" : "Study\/",
+    "253940EFFD57AA0C844632FA47CFF566158B5D5C" : "..\/PilotPlant",
+    "942298B9B4489A8B164BFD5A00D7D82DEB83C7F2" : "..\/PilotPlantCatalog",
+    "A88D8E88AABCABFC0B1FD86705C3D1C5100AEB56" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Study",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Study.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lingostar\/PilotPlant.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "253940EFFD57AA0C844632FA47CFF566158B5D5C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CodersHigh\/PilotPlantCatalog.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "942298B9B4489A8B164BFD5A00D7D82DEB83C7F2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/gytks4\/Study.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "992211DACDBCE1D6278A2558BA000D4E87E621AE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ProjectInTheClass\/ForForeigner.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A88D8E88AABCABFC0B1FD86705C3D1C5100AEB56"
+    }
+  ]
+}
